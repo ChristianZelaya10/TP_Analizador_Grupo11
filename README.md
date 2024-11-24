@@ -31,3 +31,9 @@ Grupo 11
 * Legajo: 1727801
 * Apellido/s: Pelullo
 * Nombre: Nicolas
+
+--------------------------------------------------
+* Usuario de GitHub: MaxiDamian24
+* Legajo: 1688297
+* Apellido/s: Argañaraz
+* Nombre: Maximiliano
